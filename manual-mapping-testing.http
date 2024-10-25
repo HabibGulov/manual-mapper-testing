@@ -1,0 +1,6 @@
+@manual_mapping_testing_HostAddress = http://localhost:5225
+
+GET {{manual_mapping_testing_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
